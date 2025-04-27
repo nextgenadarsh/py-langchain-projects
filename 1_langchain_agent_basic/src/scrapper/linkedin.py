@@ -1,6 +1,7 @@
 import os
 import requests
 
+
 def scrape_linkedin_profile(profile_url: str, mock: bool = False):
     if mock is True:
         profile_url = "https://gist.githubusercontent.com/nextgenadarsh/c9713e27e2f38f4fca0aea3e2b703ea8/raw/9bcc60134f87fc819cf47e86198590fe532fced1/linkedin_nextgenadarsh.json"
