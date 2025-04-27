@@ -1,5 +1,5 @@
 """
-    Run using `inspect eval ./src/inspect_ai/tools/addition_problem.py --limit 50  --model google/gemini-2.0-flash`
+Run using `inspect eval ./src/inspect_ai/tools/addition_problem.py --limit 50  --model google/gemini-2.0-flash`
 """
 
 from inspect_ai import Task, task
