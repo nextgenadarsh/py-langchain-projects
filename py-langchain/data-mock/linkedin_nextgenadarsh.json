@@ -1,0 +1,516 @@
+{
+    "success": true,
+    "credits_left": 100,
+    "rate_limit_left": 100,
+    "person": {
+      "publicIdentifier": "nextgenadarsh",
+      "linkedInIdentifier": "ACoAAAfUkvIBmGadaZwzB9NmzD4O-LJrKCUFNFU",
+      "memberIdentifier": "131371762",
+      "linkedInUrl": "https://www.linkedin.com/in/nextgenadarsh",
+      "firstName": "Adarsh",
+      "lastName": "Kumar",
+      "headline": "VP - Lead Software Engineer || ☞ ☁ AI ML || AWS || Azure || Solution Architecture & Design || Automation || Cloud Migration || Blend of Technology & Leadership",
+      "location": "Pune, Maharashtra, India",
+      "summary": "Innovative technology professional who takes pride in building complex solutions with basic technology, getting the most from a company’s technology investment. Recognised as a problem solver focused on making technology work. Accomplished researcher who turns challenges into building blocks to learn new technology, master advanced stills and streamline processes. Applies natural talent to translate a love of learning into love of teaching, and helping others to learn.\n\n✔ Innovative & tech-savvy software development professional with progressive experience specializing in object-oriented approach to enterprise commercial solution delivery utilizing latest technologies.\n✔ Extensive background in Full Life-Cycle of Software Development and Automation process including requirements gathering, design, coding, unit testing, automation, debugging and maintenance.\n✔ Comprehensive knowledge of Relational Database technology, queries and procedures.\n✔ Excellent understanding of OOPS Concepts, Design Patterns & Best Coding Practices.\n✔ Strong architectural knowledge of designing n-tier and n-layer solutions using Application blocks, Enterprise library, SOA, Software factories.\n✔ Working experience of IIS administration and website deployment and configuration.\n\n♛ Strengths & Area of expertise include:\n\n✔ Full Stack Enterprise Web Development\n✔ Multi-Threaded Programming\n✔ Object Oriented Development\n✔ REST APIs Development & Integration\n✔ Distributed/Client Server System\n✔ TDD & Behavior Driven Development (BDD)\n✔ Database Design & Development\n✔ Exceptional Analytical & Quick Learning Skill\n✔ Team & Client Communication\n✔ Proactive & Organization Development Attitude",
+      "photoUrl": "https://media.licdn.com/dms/image/v2/D4D03AQF7sTChLlIACA/profile-displayphoto-shrink_800_800/B4DZWuiycVHYAg-/0/1742390110862?e=1750896000&v=beta&t=8FPakr4KlsjToxtWSvXgax97ukI9FtLXrnSM_OVpu9c",
+      "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D16AQHEtYy1CXlSQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723637170752?e=1750896000&v=beta&t=Y_QvbIAIQAaLRTKySERrb2xsns1jpi5ZHz_p_ypcdVc",
+      "openToWork": false,
+      "premium": false,
+      "pronoun": "HE_HIM",
+      "showVerificationBadge": true,
+      "creationDate": {
+        "month": 7,
+        "year": 2011
+      },
+      "followerCount": 1999,
+      "positions": {
+        "positionsCount": 8,
+        "positionHistory": [
+          {
+            "title": "Vice President - Lead Software Engineer",
+            "companyName": "JPMorganChase",
+            "companyLocation": "Pune, Maharashtra, India · On-site",
+            "description": "Skills: Solution Architecture · Vice Presidents · Technical Project Leadership · System Design",
+            "startEndDate": {
+              "start": {
+                "month": 2,
+                "year": 2025
+              },
+              "end": null
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1750896000&v=beta&t=N4-t4hVp2gXtJS5o3j3kILt4fCk6kOXO5JLOtHzj3Q4",
+            "linkedInUrl": "https://www.linkedin.com/company/1068/",
+            "linkedInId": "1068"
+          },
+          {
+            "title": "Senior Associate",
+            "companyName": "JPMorganChase",
+            "companyLocation": "Pune, Maharashtra, India · On-site",
+            "description": "Skills: Systems Design · Amazon Web Services (AWS) · Solution Architecture · Team Leadership · Cloud-Native Architecture · Process Automation · Automation · Scikit-Learn · Kubernetes · Web Application Security · GitHub · Machine Learning · Event Driven Programming · REST APIs · Technical Project Leadership · Python (Programming Language)",
+            "startEndDate": {
+              "start": {
+                "month": 2,
+                "year": 2022
+              },
+              "end": {
+                "month": 2,
+                "year": 2025
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1750896000&v=beta&t=N4-t4hVp2gXtJS5o3j3kILt4fCk6kOXO5JLOtHzj3Q4",
+            "linkedInUrl": "https://www.linkedin.com/company/1068/",
+            "linkedInId": "1068"
+          },
+          {
+            "title": "Senior Associate",
+            "companyName": "JPMorganChase",
+            "companyLocation": "Hyderabad Area, India",
+            "description": "Skills: Systems Design · Solution Architecture · Team Leadership · Cloud-Native Architecture · Web Application Security · AWS Lambda · GitHub · Event Driven Programming · REST APIs · React.js",
+            "startEndDate": {
+              "start": {
+                "month": 2,
+                "year": 2018
+              },
+              "end": {
+                "month": 1,
+                "year": 2022
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1750896000&v=beta&t=N4-t4hVp2gXtJS5o3j3kILt4fCk6kOXO5JLOtHzj3Q4",
+            "linkedInUrl": "https://www.linkedin.com/company/1068/",
+            "linkedInId": "1068"
+          },
+          {
+            "title": "Associate",
+            "companyName": "JPMorganChase",
+            "companyLocation": "Hyderabad Area, India",
+            "description": "Skills: Web Application Security · GitHub · REST APIs · React.js",
+            "startEndDate": {
+              "start": {
+                "month": 7,
+                "year": 2016
+              },
+              "end": {
+                "month": 1,
+                "year": 2018
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1750896000&v=beta&t=N4-t4hVp2gXtJS5o3j3kILt4fCk6kOXO5JLOtHzj3Q4",
+            "linkedInUrl": "https://www.linkedin.com/company/1068/",
+            "linkedInId": "1068"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "companyName": "NISC Export Services (Pvt.) Ltd",
+            "companyLocation": "Hyderabad Area, India",
+            "description": " Utilize the .NET framework, NodeJS, and JavaScript frameworks to develop multi-tiered and fast web applications consisting of reusable widgets/components and REST APIs following SAFe principles.\n Responsible for full stack development from writing Web APIs to creating client widgets and configuration.\n Mentor the team continuously, provide them training and guide them for delivering quality products.\n Document and diagram the design of solution interfaces, implementations, and dependencies.\n Provide detailed task definitions and time estimates for project deliverable.\n Create unit tests and automations to ensure functional integrity of solutions.\n Troubleshoot application issues down to the network protocol level.\n Collaborate with development team members to create a consistent approach across feature implementations.\n Participate in code reviews and play an active role in ensuring best practices are enforced in all team development work.",
+            "startEndDate": {
+              "start": {
+                "month": 8,
+                "year": 2014
+              },
+              "end": {
+                "month": 6,
+                "year": 2016
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEB6Btr-mQLJA/company-logo_400_400/company-logo_400_400/0/1631355248325?e=1750896000&v=beta&t=W4LW8np3nIoKievbt1wxfW0nYvUndeJBq2NSnAI45Kg",
+            "linkedInUrl": "https://www.linkedin.com/company/2362764/",
+            "linkedInId": "2362764"
+          },
+          {
+            "title": "Software Developer",
+            "companyName": "Tavisca Solutions Pvt Ltd.",
+            "companyLocation": "Pune Area, India",
+            "description": "- Responsible for end to end delivery of scalable and high-performance components.\n- Analyze, review requirements from product specifications and provide accurate estimates.\n- Design, initiate and handle technical designs and complex application features.\n- Individually own module development and review all engineering deliverables.\n- Perform unit testing using NUnit and dependency injection through Ninject.\n- Participate in peer code review and provide quality suggestions.\n- Working on client requests and providing solutions communicating with clients.\n- Integrate web services and third party API with application.\n- Conducting technical training sessions for peers and guiding them throughout development.",
+            "startEndDate": {
+              "start": {
+                "month": 3,
+                "year": 2013
+              },
+              "end": {
+                "month": 8,
+                "year": 2014
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEU13NlThQ6VA/company-logo_400_400/company-logo_400_400/0/1630672781187/tavisca_logo?e=1750896000&v=beta&t=b-B_A_RuKBRcdVd8gt_Gw_2tnwOMYn2aHnQDVtBuRFw",
+            "linkedInUrl": "https://www.linkedin.com/company/227166/",
+            "linkedInId": "227166"
+          },
+          {
+            "title": "Software Engineer",
+            "companyName": "Harbinger Systems",
+            "companyLocation": "Pune Area, India",
+            "description": "- Responsible for end to end delivery of scalable and high-performance applications.\n- Analyze, review requirements from product specifications and provide accurate estimates.\n- Design, initiate and handle technical designs and complex application features.\n- Individually own module development and review all engineering deliverables.\n- Perform unit testing using NUnit and dependency injection through Ninject.\n- Participate in peer code review and provide quality suggestions.\n- Working on client requests and providing solutions communicating with clients.\n- Integrate web services and third party API with application.\n- Conducting technical training sessions for peers and guiding them throughout development.\n- Client data upload activity using database, SVN and FTP Tools.\n- Supporting clients and configuring/customizing their portals.",
+            "startEndDate": {
+              "start": {
+                "month": 7,
+                "year": 2010
+              },
+              "end": {
+                "month": 3,
+                "year": 2013
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHbMv50K3bV2A/company-logo_400_400/company-logo_400_400/0/1719816722866/harbinger_group_logo?e=1750896000&v=beta&t=EJVjXyImsSX3IzwnE0E_oYJeeadd25avKNPZiDr2UEM",
+            "linkedInUrl": "https://www.linkedin.com/company/164117/",
+            "linkedInId": "164117"
+          },
+          {
+            "title": "Industrial Trainee",
+            "companyName": "Harbinger Systems",
+            "companyLocation": "Pune Area, India",
+            "description": "- Responsible for end to end delivery of scalable and high-performance applications.\n- Perform unit testing using NUnit and dependency injection through Ninject.\n- Working on client requests and providing solutions communicating with clients.\n- Integrate web services and third party API with application.\n- Supporting clients and configuring/customizing their portals.",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2010
+              },
+              "end": {
+                "month": 6,
+                "year": 2010
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHbMv50K3bV2A/company-logo_400_400/company-logo_400_400/0/1719816722866/harbinger_group_logo?e=1750896000&v=beta&t=EJVjXyImsSX3IzwnE0E_oYJeeadd25avKNPZiDr2UEM",
+            "linkedInUrl": "https://www.linkedin.com/company/164117/",
+            "linkedInId": "164117"
+          }
+        ]
+      },
+      "schools": {
+        "educationsCount": 4,
+        "educationHistory": [
+          {
+            "degreeName": "Master's Degree",
+            "fieldOfStudy": "Computer Application",
+            "linkedInUrl": "https://www.linkedin.com/company/15094398/",
+            "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEFsIyAZyuMwA/company-logo_400_400/company-logo_400_400/0/1631345386058?e=1750896000&v=beta&t=QeDLkWdWABScFXyTXWoOXMBrywwvsJ16-6qEKyWEgOg",
+            "schoolName": "Savitribai Phule Pune University",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2007
+              },
+              "end": {
+                "month": 1,
+                "year": 2010
+              }
+            }
+          },
+          {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Computer Application",
+            "linkedInUrl": "https://www.linkedin.com/company/15092844/",
+            "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEC9Ip_3cWdog/company-logo_400_400/company-logo_400_400/0/1630580449087/babasaheb_bhimrao_ambedkar_bihar_university_logo?e=1750896000&v=beta&t=wtU6dO2ybFk0frdHXEJ2H_HxqXlcmHrh5Yag4s0_W9E",
+            "schoolName": "Babasaheb Bhimrao Ambedkar Bihar University",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2002
+              },
+              "end": {
+                "month": 1,
+                "year": 2006
+              }
+            }
+          },
+          {
+            "degreeName": "SSC",
+            "fieldOfStudy": "Science (Math)",
+            "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Bihar+Intermediate+Education+Council%2C+Patna",
+            "schoolLogo": null,
+            "schoolName": "Bihar Intermediate Education Council, Patna",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2000
+              },
+              "end": {
+                "month": 1,
+                "year": 2002
+              }
+            }
+          },
+          {
+            "degreeName": "HSC",
+            "fieldOfStudy": "Advance Math",
+            "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Bihar+School+Examination+Board%2C+Patna",
+            "schoolLogo": null,
+            "schoolName": "Bihar School Examination Board, Patna",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 1999
+              },
+              "end": {
+                "month": 1,
+                "year": 2000
+              }
+            }
+          }
+        ]
+      },
+      "skills": [
+        "FastAPI",
+        "Vice Presidents",
+        "System Design",
+        "Artificial Intelligence (AI)",
+        "Azure AI",
+        "Machine Learning Algorithms",
+        "Scikit-Learn",
+        "Machine Learning",
+        "Python (Programming Language)",
+        "Critical Thinking",
+        "Critical Thanking",
+        "Automation",
+        "Event Driven Programming",
+        "GitHub",
+        "Technical Project Leadership",
+        "Process Automation",
+        "Kubernetes",
+        "Amazon Web Services (AWS)",
+        "AWS Lambda",
+        "Microsoft Azure",
+        "REST APIs",
+        "React.js",
+        "Agile Methodologies",
+        "Solution Architecture",
+        "C#",
+        "Cloud Computing",
+        "Cassandra",
+        "Systems Design",
+        "Design Patterns",
+        "Service-Oriented Architecture (SOA)",
+        "TPL",
+        "Angular",
+        "Entity Framework",
+        "Node.js",
+        "JavaScript",
+        "MongoDB",
+        "LINQ",
+        "Pivotal Cloud Foundry (PCF)",
+        "Team Leadership",
+        "Cloud-Native Architecture"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ],
+      "languagesWithProficiency": [
+        {
+          "language": "English",
+          "proficiency": "Full professional proficiency"
+        },
+        {
+          "language": "Hindi",
+          "proficiency": "Native or bilingual proficiency"
+        },
+        {
+          "language": "Marathi",
+          "proficiency": "Limited working proficiency"
+        }
+      ],
+      "recommendations": {
+        "recommendationsCount": 3,
+        "recommendationHistory": [
+          {
+            "caption": "October 20, 2014, Ashish worked with Adarsh on the same team",
+            "description": "technically strong, passionate about learning new things daily... ",
+            "authorFullname": "Ashish Bedmutha",
+            "authorUrl": "https://www.linkedin.com/in/ashish-bedmutha-7041b732"
+          },
+          {
+            "caption": "August 26, 2014, Divya worked with Adarsh on the same team",
+            "description": "Adarsh is efficient and hard working. He is always keen to incorporate latest technologies into his work and also encourages his team to learn the same. He is tech-savvy and can channel his knowledge for benefit of team and colleagues very well. My best wishes for him in all future endeavors.",
+            "authorFullname": "Divya Ruchi",
+            "authorUrl": "https://www.linkedin.com/in/divyaruchi"
+          },
+          {
+            "caption": "February 13, 2013, Vrushali worked with Adarsh on the same team",
+            "description": "Adarsh has good technical knowledge and works sincerely. \r\nHe has good problem solving capabilities.",
+            "authorFullname": "Vrushali Sarang",
+            "authorUrl": "https://www.linkedin.com/in/vrushali-sarang"
+          }
+        ]
+      },
+      "certifications": {
+        "certificationsCount": 18,
+        "certificationHistory": [
+          {
+            "name": "FastAPI - The Complete Course 2025 (Beginner + Advanced)",
+            "organizationName": "Udemy",
+            "organizationUrl": "https://www.linkedin.com/company/822535/",
+            "issuedDate": "Issued Apr 2025"
+          },
+          {
+            "name": "FastAPI - The Complete Course 2025 (Beginner + Advanced)",
+            "organizationName": "Udemy",
+            "organizationUrl": "https://www.linkedin.com/company/822535/",
+            "issuedDate": "Issued Apr 2025"
+          },
+          {
+            "name": "AI-900 Microsoft Azure Al Fundamentals Certification",
+            "organizationName": "Udemy",
+            "organizationUrl": "https://www.linkedin.com/company/822535/",
+            "issuedDate": "Issued Jan 2025"
+          },
+          {
+            "name": "AZ-900: Microsoft Azure Fundamentals Certification",
+            "organizationName": "Udemy",
+            "organizationUrl": "https://www.linkedin.com/company/822535/",
+            "issuedDate": "Issued Jan 2025"
+          },
+          {
+            "name": "Python for Data Science and Machine Learning Bootcamp",
+            "organizationName": "Udemy",
+            "organizationUrl": "https://www.linkedin.com/company/822535/",
+            "issuedDate": "Issued Jan 2025"
+          },
+          {
+            "name": "Critical Thinking Strategies For Better Decisions",
+            "organizationName": "National Association of State Boards of Accountancy (NASBA)",
+            "organizationUrl": "https://www.linkedin.com/company/92845625/",
+            "issuedDate": "Issued Aug 2024"
+          },
+          {
+            "name": "Software Architecture & System Design Practical Case Studies",
+            "organizationName": "Udemy",
+            "organizationUrl": "https://www.linkedin.com/company/822535/",
+            "issuedDate": "Issued Jul 2024"
+          },
+          {
+            "name": "CKAD: Certified Kubernetes Application Developer",
+            "organizationName": "The Linux Foundation",
+            "organizationUrl": "https://www.linkedin.com/company/208777/",
+            "issuedDate": "Issued Apr 2024 · Expires Apr 2027"
+          },
+          {
+            "name": "AWS Certified Solutions Architect – Associate",
+            "organizationName": "Amazon Web Services (AWS)",
+            "organizationUrl": "https://www.linkedin.com/company/2382910/",
+            "issuedDate": "Issued Feb 2024 · Expires Feb 2027"
+          },
+          {
+            "name": "AWS Certified Developer – Associate",
+            "organizationName": "Amazon Web Services (AWS)",
+            "organizationUrl": "https://www.linkedin.com/company/2382910/",
+            "issuedDate": "Issued Oct 2023 · Expires Oct 2026"
+          },
+          {
+            "name": "AWS Certified Cloud Practitioner",
+            "organizationName": "Amazon Web Services (AWS)",
+            "organizationUrl": "https://www.linkedin.com/company/2382910/",
+            "issuedDate": "Issued Aug 2023 · Expires Oct 2026"
+          },
+          {
+            "name": "Apache Cassandra and DataStax Enterprise - DataStax Academy",
+            "organizationName": "DataStax",
+            "organizationUrl": "https://www.linkedin.com/company/1786002/",
+            "issuedDate": "Issued Feb 2020"
+          },
+          {
+            "name": "Kanban Management Professional - KMP II",
+            "organizationName": "Lean Kanban University",
+            "organizationUrl": null,
+            "issuedDate": "Issued Mar 2019"
+          },
+          {
+            "name": "Certified Kanban System Design- KMP I",
+            "organizationName": "Lean Kanban University",
+            "organizationUrl": null,
+            "issuedDate": "Issued Aug 2018"
+          },
+          {
+            "name": "Oracle Certified Professional, Java SE 6 Programmer",
+            "organizationName": "Oracle",
+            "organizationUrl": null,
+            "issuedDate": "Issued Jan 2012"
+          },
+          {
+            "name": "Microsoft Certified Professional",
+            "organizationName": "Microsoft",
+            "organizationUrl": null,
+            "issuedDate": "Issued Aug 2011"
+          },
+          {
+            "name": "Certified ScrumMaster® - CSM",
+            "organizationName": "Scrum Alliance",
+            "organizationUrl": "https://www.linkedin.com/company/871226/",
+            "issuedDate": "Issued May 2018 · Expired May 2020"
+          },
+          {
+            "name": "Certified SAFe® 4 Scrum Master",
+            "organizationName": "Scaled Agile, Inc.",
+            "organizationUrl": "https://www.linkedin.com/company/2434776/",
+            "issuedDate": "Issued May 2018 · Expired May 2019"
+          }
+        ]
+      },
+      "testScores": {
+        "testScoresCount": 0,
+        "testScoreHistory": []
+      },
+      "volunteeringExperiences": {
+        "volunteeringExperiencesCount": 2,
+        "volunteeringExperienceHistory": [
+          {
+            "organizationName": "Sinhgad Institute Of Management",
+            "role": "Mentor",
+            "cause": "Education",
+            "period": "Apr 2014 - Present · 11 yrs 1 mo"
+          },
+          {
+            "organizationName": "Sinhgad Institute Of Management",
+            "role": "Mentor",
+            "cause": "Education",
+            "period": "Aug 2014 - Present · 10 yrs 9 mos"
+          }
+        ]
+      },
+      "interests": {}
+    },
+    "company": {
+      "linkedInId": "1068",
+      "name": "JPMorganChase",
+      "universalName": "jpmorganchase",
+      "linkedInUrl": "https://www.linkedin.com/company/1068",
+      "employeeCount": 243160,
+      "followerCount": 5757275,
+      "employeeCountRange": {
+        "start": 10001,
+        "end": 1
+      },
+      "websiteUrl": "http://www.jpmorganchase.com",
+      "tagline": null,
+      "description": "With a history tracing its roots to 1799 in New York City, JPMorganChase is one of the world's oldest, largest, and best-known financial institutions—carrying forth the innovative spirit of our heritage firms in global operations across 100 markets.\n \nWe serve millions of customers and many of the world’s most prominent corporate, institutional, and government clients daily, managing assets and investments, offering business advice and strategies, and providing innovative banking solutions and services.\n\nSocial Media Terms and Conditions: https://bit.ly/JPMCSocialTerms\n\n© 2024 JPMorgan Chase & Co. All rights reserved. JPMorganChase is an Equal Opportunity Employer, including Disability/Veterans.\n ",
+      "industry": "Financial Services",
+      "phone": null,
+      "specialities": [
+        "Consumer & Community Banking",
+        "Corporate and Investment Bank",
+        "Asset Management",
+        "Private Banking",
+        "Commercial Banking"
+      ],
+      "headquarter": {
+        "city": "New York",
+        "country": "US",
+        "postalCode": "10017-2014",
+        "geographicArea": "NY",
+        "street1": "270 Park Avenue",
+        "street2": null
+      },
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1750896000&v=beta&t=N4-t4hVp2gXtJS5o3j3kILt4fCk6kOXO5JLOtHzj3Q4",
+      "fundingData": null,
+      "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4E1BAQGUVFk27TRA_g/company-background_10000/company-background_10000/0/1718711608670/jpmorganchase_cover?e=1746032400&v=beta&t=0M27SnKNzcm6GkthjB3U5uybegsIT8wtzaimY3kwE3s"
+    }
+  }
