@@ -1,0 +1,6 @@
+
+
+## Project Setup
+
+- `pipenv shell`
+
