@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask APP</title>
+</head>
+<body>
+    <h1>Flask App Main</h1>
+    <form id="form" onsubmit="getInfo(event)">
+        <input type="text" id="name" name="name" />
+        <button type="submit">Get Info</button>
+    </form>
+    <script>
+        function getInfo(evt,a) {
+            evt.preventDefault()
+            const name = document.getElementById("name")
+            fetch("/process", {
+                method: "POST",
+                body: new FormData(document.getElementById('form'))
+            }).then(res => {
+                console.log(res)
+            })
+        }
+    </script>
+</body>
+</html>
